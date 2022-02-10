@@ -1,0 +1,9 @@
+.todo-list {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+}
+.input-wrapper input{
+    width: 20px;
+    height: 20px;
+}
